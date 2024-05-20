@@ -1,0 +1,153 @@
+-- Copyright (C) 2019  Intel Corporation. All rights reserved.
+-- Your use of Intel Corporation's design tools, logic functions 
+-- and other software and tools, and any partner logic 
+-- functions, and any output files from any of the foregoing 
+-- (including device programming or simulation files), and any 
+-- associated documentation or information are expressly subject 
+-- to the terms and conditions of the Intel Program License 
+-- Subscription Agreement, the Intel Quartus Prime License Agreement,
+-- the Intel FPGA IP License Agreement, or other applicable license
+-- agreement, including, without limitation, that your use is for
+-- the sole purpose of programming logic devices manufactured by
+-- Intel and sold by Intel or its authorized distributors.  Please
+-- refer to the applicable agreement for further details, at
+-- https://fpgasoftware.intel.com/eula.
+
+-- Quartus Prime generated Memory Initialization File (.mif)
+
+WIDTH=32;
+DEPTH=128;
+
+ADDRESS_RADIX=UNS;
+DATA_RADIX=DEC;
+
+CONTENT BEGIN
+	0    :   44;
+	1    :   -58;
+	2    :   42;
+	3    :   -111;
+	4    :   34;
+	5    :   28;
+	6    :   -42;
+	7    :   -67;
+	8    :   -7;
+	9    :   -76;
+	10   :   -88;
+	11   :   9;
+	12   :   -107;
+	13   :   -46;
+	14   :   4;
+	15   :   -111;
+	16   :   60;
+	17   :   20;
+	18   :   92;
+	19   :   -111;
+	20   :   45;
+	21   :   67;
+	22   :   -108;
+	23   :   82;
+	24   :   -63;
+	25   :   -49;
+	26   :   7;
+	27   :   105;
+	28   :   106;
+	29   :   -114;
+	30   :   -52;
+	31   :   -121;
+	32   :   -50;
+	33   :   -53;
+	34   :   -16;
+	35   :   -75;
+	36   :   80;
+	37   :   121;
+	38   :   125;
+	39   :   76;
+	40   :   -15;
+	41   :   -97;
+	42   :   -71;
+	43   :   -13;
+	44   :   110;
+	45   :   7;
+	46   :   57;
+	47   :   23;
+	48   :   46;
+	49   :   -76;
+	50   :   -63;
+	51   :   -8;
+	52   :   -99;
+	53   :   -5;
+	54   :   -34;
+	55   :   -24;
+	56   :   -17;
+	57   :   46;
+	58   :   118;
+	59   :   -12;
+	60   :   16;
+	61   :   2;
+	62   :   65;
+	63   :   124;
+	64   :   -4;
+	65   :   -128;
+	66   :   47;
+	67   :   49;
+	68   :   -30;
+	69   :   122;
+	70   :   -42;
+	71   :   43;
+	72   :   -86;
+	73   :   65;
+	74   :   -6;
+	75   :   -87;
+	76   :   104;
+	77   :   5;
+	78   :   -87;
+	79   :   89;
+	80   :   77;
+	81   :   62;
+	82   :   100;
+	83   :   -100;
+	84   :   57;
+	85   :   25;
+	86   :   -33;
+	87   :   101;
+	88   :   37;
+	89   :   99;
+	90   :   -27;
+	91   :   -35;
+	92   :   -60;
+	93   :   -13;
+	94   :   -23;
+	95   :   49;
+	96   :   -13;
+	97   :   -13;
+	98   :   -97;
+	99   :   27;
+	100  :   -86;
+	101  :   -12;
+	102  :   -114;
+	103  :   -104;
+	104  :   -89;
+	105  :   119;
+	106  :   -67;
+	107  :   39;
+	108  :   -51;
+	109  :   66;
+	110  :   119;
+	111  :   -77;
+	112  :   -54;
+	113  :   40;
+	114  :   36;
+	115  :   77;
+	116  :   -103;
+	117  :   -8;
+	118  :   -3;
+	119  :   -74;
+	120  :   -50;
+	121  :   -52;
+	122  :   -8;
+	123  :   112;
+	124  :   6;
+	125  :   10;
+	126  :   -49;
+	127  :   122;
+END;
